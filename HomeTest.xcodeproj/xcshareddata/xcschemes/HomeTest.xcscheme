@@ -20,6 +20,34 @@
                ReferencedContainer = "container:HomeTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B09DEB1A24DD696F00311C14"
+               BuildableName = "HomeTestTests.xctest"
+               BlueprintName = "HomeTestTests"
+               ReferencedContainer = "container:HomeTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B09DEB2524DD696F00311C14"
+               BuildableName = "HomeTestUITests.xctest"
+               BlueprintName = "HomeTestUITests"
+               ReferencedContainer = "container:HomeTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction

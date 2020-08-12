@@ -18,7 +18,6 @@ target 'HomeTest' do
   pod 'OHHTTPStubs/Swift'
 
   target 'HomeTestTests' do
-    inherit! :search_paths
     # Pods for testing
   end
 
